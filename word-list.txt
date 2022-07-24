@@ -1,4 +1,5 @@
 No. Answer  Date
+400	power	July 24
 399	midge	July 23
 398	tryst	July 22
 393	wacky	July 17
